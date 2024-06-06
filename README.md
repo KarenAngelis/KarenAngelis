@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <h1>
     
-    <span>Karen Angelis</span>
+ Karen Angelis
 </h1>
 <p align="justify">
     Desde o início da minha carreira, fui apaixonado por resolver problemas complexos através da tecnologia. Ao longo dos anos, desenvolvi uma sólida base de habilidades em desenvolvimento de software, trabalhando em diversos projetos desafiadores que me permitiram expandir meu conhecimento e experiência. 
