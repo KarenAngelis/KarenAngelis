@@ -24,7 +24,7 @@ Aplicação Full Stack para organizar e transformar conteúdo de podcasts, integ
 
 **Stack:** Next.js, React, TypeScript, FastAPI e PostgreSQL
 
-[Ver aplicação](https://front-jip-git-main-karens-projects-f934d966.vercel.app/)
+[Ver código e documentação](https://github.com/KarenAngelis/jip-fullstack)
 
 ### Isidoro Preparatório
 
