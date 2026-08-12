@@ -26,6 +26,14 @@ Aplicação Full Stack para organizar e transformar conteúdo de podcasts, integ
 
 [Ver código e documentação](https://github.com/KarenAngelis/jip-fullstack)
 
+### StockMaster — Gestão de estoque e produção
+
+Sistema Full Stack para controle de insumos, produtos, receitas de fabricação e movimentações de estoque, com sugestão de produção baseada na disponibilidade de matérias-primas.
+
+**Stack:** React, FastAPI, PostgreSQL, Docker e Docker Compose
+
+[Ver código e documentação](https://github.com/KarenAngelis/production-stock-api)
+
 ### Isidoro Preparatório
 
 Plataforma educacional responsiva com autenticação, área do aluno, componentes reutilizáveis e integrações via APIs.
