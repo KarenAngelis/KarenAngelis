@@ -1,51 +1,50 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header">
+# Olá, eu sou Karen Angelis 👋
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+### Desenvolvedora Full Stack Pleno | React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
 
-# Karen Angelis
+Sou desenvolvedora Full Stack, PcD, com **4 anos de experiência** na construção e evolução de aplicações web. Atuo entre frontend, backend, integrações, autenticação e bancos de dados, conectando decisões técnicas às necessidades do produto e do negócio.
 
-Desde o início da minha carreira, fui apaixonado por resolver problemas complexos através da tecnologia. Ao longo dos anos, desenvolvi uma sólida base de habilidades em desenvolvimento de software, trabalhando em diversos projetos desafiadores que me permitiram expandir meu conhecimento e experiência.
+Atualmente trabalho no desenvolvimento de uma plataforma corporativa de qualidade e melhoria contínua na WEG. Por confidencialidade, não publico código, telas, nomes de módulos ou informações internas desse projeto.
 
-Possuo experiência em ASP.NET Core, C#, APIs REST, HTML, CSS, JavaScript, Node.js, React + Vite e SQL além de ser proficiente em fullstack. Estou confiante de que posso trazer uma combinação única de habilidades técnicas e experiência prática para a equipe da empresa, ajudando a enfrentar os desafios descritos na vaga e contribuindo para alcançar os objetivos de forma eficaz e inovadora.
+## Tecnologias
 
-## My Skills
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS e Design Systems
+- **Backend:** Node.js, NestJS, Python, FastAPI e APIs REST
+- **Dados:** PostgreSQL, SQL, Neon e MinIO
+- **Segurança:** JWT, NextAuth, Keycloak, OpenID Connect, autenticação e autorização
+- **Colaboração:** Git, GitLab, GitHub, branches, commits, merge requests e code review
+- **Qualidade e gestão:** Jest e React Testing Library em estudos e prática, Playwright, Cypress, Scrum, Kanban, Jira e Confluence
+- **Conhecimentos complementares:** fundamentos e prática com Docker; vivência em ambiente Kubernetes/Rancher
 
-### Principais:
+## Projetos em destaque
 
-[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+### JIP — Plataforma para podcasts com IA
 
-### Database:
+Aplicação Full Stack para organizar e transformar conteúdo de podcasts, integrando interface, API, autenticação, banco de dados e serviços de inteligência artificial.
 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+**Stack:** Next.js, React, TypeScript, FastAPI e PostgreSQL
 
-### Ferramentas:
+[Ver aplicação](https://front-jip-git-main-karens-projects-f934d966.vercel.app/)
 
-[![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+### Isidoro Preparatório
 
-## Connect with me
+Plataforma educacional responsiva com autenticação, área do aluno, componentes reutilizáveis e integrações via APIs.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-angelis/)
-[![Instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/kdenich1986/)
+**Stack:** Next.js, React e TypeScript
 
-## GitHub Stats
+[Ver aplicação](https://isidoropreparatorio.com.br/)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KarenAngelis&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+### Plataforma corporativa de qualidade — estudo de caso
 
-<!-- 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KarenAngelis&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)
--->
+Atuação Full Stack em uma solução corporativa para qualidade e melhoria contínua, com foco em componentes reutilizáveis, integrações, autenticação, autorização e manutenibilidade. Informações confidenciais, código e telas não são publicados.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer">
+## Experiência que levo para o código
 
-<details align="left">
-  <summary></summary> 
-  - Badges by [shields.io](https://shields.io/)<br>
-  - GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)<br>
-  - Developer vector created by [storyset - www.freepik.com](https://www.freepik.com/vectors/developer) (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/KarenAngelis">EA</a>.</div>
-</details>
+Minha trajetória também inclui processos, compliance, produto, qualidade e experiência do cliente. Essa base fortaleceu minha capacidade de compreender regras de negócio, investigar problemas e colaborar com pessoas técnicas e não técnicas.
 
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/karen-angelis/)
+- E-mail: karen.denich@gmail.com
+
+Estou disponível para oportunidades **Front-end Pleno** e **Full Stack Pleno**, preferencialmente remotas.
