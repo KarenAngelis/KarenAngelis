@@ -1,4 +1,41 @@
-# Olá, eu sou Karen Angelis 👋
+# Hi, I'm Karen Angelis
+
+**Software Developer · Full Stack · React, TypeScript, Python & APIs**
+
+I build web applications that connect interfaces, APIs and business rules. My background in processes, quality and customer experience helps me understand the operational problem behind a feature.
+
+Based in Brazil, open to international remote software development opportunities.
+
+**[Try StockMaster](https://stockmaster-karen-demo.kdenich16.chatgpt.site)** · **[LinkedIn](https://www.linkedin.com/in/karen-angelis/)** · **[Email](mailto:karen.denich@gmail.com)**
+
+## Selected engineering work
+
+### StockMaster — inventory and production planning
+
+React interface with a FastAPI backend, SQLAlchemy and PostgreSQL configuration. Automated tests check API contracts, insufficient stock and rollback after database writes. A Playwright test creates a product through the interface and confirms persistence after reload.
+
+- [Code, architecture and setup](https://github.com/KarenAngelis/production-stock-api)
+- [Passing API and end-to-end tests](https://github.com/KarenAngelis/production-stock-api/actions/runs/34252026369)
+- [Screenshot and short flow recording](https://github.com/KarenAngelis/production-stock-api#product-flow)
+
+The public interactive demo uses fictional data stored in the browser tab. CI tests exercise the real FastAPI application.
+
+### JIP — podcast content application with AI integrations
+
+Next.js, React, TypeScript, FastAPI and PostgreSQL. Authentication work includes JWT expiration, account validation and user-scoped settings, supported by 27 security regression tests.
+
+- [Code and project documentation](https://github.com/KarenAngelis/jip-fullstack)
+- [Security implementation and tests](https://github.com/KarenAngelis/jip-fullstack/pull/4)
+
+## What I bring to a team
+
+- Interfaces connected to APIs and business processes.
+- Troubleshooting supported by reproducible tests and clear documentation.
+- Experience communicating with technical and nontechnical people.
+
+---
+
+## Olá, eu sou Karen Angelis 👋
 
 ### Desenvolvedora Full Stack Pleno | React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
 
